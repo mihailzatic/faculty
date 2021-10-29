@@ -1,0 +1,39 @@
+Problemă: Un sondaj pentru spectatorii TV arată următoarele rezultate:
+La întrebarea “Vizionaţi comedii ?”, 352 au răspuns “Da”.
+La întrebarea “Vizionaţi emisiuni de sport ?” 277 au răspuns “Da”.
+La întrebarea “Vizionaţi şi comedii şi emisiuni sportive ?”, 129 au răspuns “Da”.
+Acestea fiind date, găsiţi printre cei care vizionează măcar unul din genurile enunţate, procentajul celor
+care vizionează doar comedii şi doar sport, respectiv al celor care vizionează ambele genuri de emisiuni.
+Să folosim pentru rezolvarea acestei probleme cadrul prezentat mai sus.
+Înţelegerea problemei: Aceasta este o problemă de tip “găseşte”.
+Deci vom încerca să identificăm necunoscutele, datele şi condiţiile. Necunoscutele sunt procentajele
+celor care vizionează doar comedii sau doar sport şi procentajul celor care vizionează ambele genuri.
+Datele sunt trei numere: 352, 277 şi 129, reprezentând numărul de oameni care vizionează comedii,
+sport şi respectiv ambele, simultan.
+Să observăm că 352 include pe cei care vizionează comedii şi sport, dar şi pe cei care vizionează doar
+comedii. Similar pentru 277.
+Condiţiile nu sunt date explicit în enunţul problemei. Dar se ştie că procentajele nu pot fi mai mari decât
+100 şi nu pot fi negative.
+Conceperea unui plan de soluţionare: Aici vom examina părţile principale în detaliu.
+Întâi, să analizăm necunoscutele mai în detaliu.
+Pentru a calcula procentajul celor care vizionează doar comedii, de exemplu, avem nevoie de numărul
+celor care vizionează cel puţin unul din genuri şi al celor care vizionează doar comedii.
+De fapt aceste două necunoscute sunt implicate în calculul ambelor procentaje şi adevăratele
+necunoscute sunt numerele de indivizi din fiecare categorie, respectiv numărul celor care vizionează
+ambele genuri.
+Apoi, să analizăm datele.
+Întâi, numărul 352 este numărul celor care privesc comedii. Dar acesta nu e neapărat numărul celor care
+vizionează doar comedii. Acesta include şi numărul celor care vizionează comedii şi sport. Similar
+pentru numărul al doilea, 277.
+Să folosim simboluri pentru a reprezenta fiecare dintre necunoscute:
+Fie C numărul celor care privesc doar comedii,
+S al celor care vizionează doar emisiuni sportive şi T al celor care vizionează măcar unul dintre genurile
+de programe menţionate. 
+Atunci, relaţiile dintre necunoscute vor fi:
+C + 129 = 352
+S + 129 = 277
+C + S + 129 = T
+Din aceste ecuaţii se obţin: C = 223, S = 148, T = 500 .
+Astfel, procentajele cerute sunt 44.6%, 29.6% şi respectiv 25.8%.
+Tot ce avem de făcut pentru rezolvarea acestei probleme este să analizăm relaţiile dintre date şi
+necunoscute adică nimic mai mult decât “înţelegerea problemei”.
