@@ -1,0 +1,12 @@
+1. Să se scrie un program în C care să rezolve o ecuație de gradul 2, cu coeficienții a, b, c
+reali introduși de la tastatura.
+2. Să se scrie un program în C care citește 2 numere de la tastatură și verfică dacă sunt
+divizile cu 3. Dacă sunt divizibile se va face suma dintre ele, dacă nu produsul.
+3. Să se realizeze un program care citește două numere reale de la tastaură și apoi afișează
+un meniu cu următoarele opțiuni:
+a. Suma numerelor introduse
+b. Diferenta numerelor introduse
+c. Produsul numerelor introdue
+d. Raportul numerelor introduse
+e. Iesire
+Opțiunea dvs:

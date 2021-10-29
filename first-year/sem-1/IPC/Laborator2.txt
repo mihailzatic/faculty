@@ -1,0 +1,12 @@
+Probleme propuse
+1. Să se scrie un program care sa citească de la tastatura numele si vârsta dvs. si sa le
+afișeze.
+2. Sa se scrie un program C care afișează produsul a doua variabile întregi, citite de la
+tastatură.
+3. Sa se scrie un program C care convertește un unghi din grade în radiani
+(rad=grad*pi/180).
+4. Sa se scrie un program C care face conversia din grade Celsius în grade Fahrenheit, C
+= (F – 32)* 5/9.
+5. Sa se scrie un program C care afișează cifra unitarilor unei variabile de tip întreg.
+6. Sa se scrie un program care citește de la tastatura lungimile laturilor unui triunghi si
+afișează aria acestuia, calculata cu formula lui Heron. 

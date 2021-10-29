@@ -1,0 +1,11 @@
+2.6 Probleme propuse
+1. Realizați diverse conversii din/în bazele studiate (2 - 10, 10 - 2, 10 - 16, 16 - 10, 2 -
+16, 16 – 2);
+2. Realizaţi schema logică pentru determinarea maximului dintre trei numere: a, b şi c.
+3. Realizaţi schema logică pentru rezolvarea ecuaţiei de gradul II.
+4. Se citesc n numere. Realizaţi schema logică pentru determinarea sumei numerelor
+pare, respectiv a produsului numerelor prime.
+5. Se dă un şir de numere care se citesc de la tastatură, citirea încheindu-se cu valoarea 0
+(care nu face parte din şir). Să se afişeze perechile de numere consecutiv citite cu
+proprietatea că al doilea element al perechii este egal cu dublul primului.
+6. Verificaţi dacă un număr este prim folosind o schemă logică. 
